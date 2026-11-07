@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">CURDS favicon</title>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="#F6F5F0"/>
+  <path d="M14 23.5 32 14l18 9.5v19L32 52 14 42.5z" fill="#E7EAE2" stroke="#354B42" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M14.5 23.5 32 33l17.5-9.5M32 33v18" fill="none" stroke="#354B42" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m23 18.8 18 9.7" fill="none" stroke="#829687" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 8v5" fill="none" stroke="#829687" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -169,7 +169,7 @@ function getSearchMood(id){
         searchMood = 'title';
     }
     else{
-        searchMood = 'Category';
+        searchMood = 'category';
     }
     Search.placeholder = 'Search By ' +searchMood;
     Search.focus();   
